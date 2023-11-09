@@ -17,7 +17,10 @@ Example;
 - `ViewController.swift`: The main view controller for the calculator app. It handles user interactions with buttons and text views.
 
 - `CalBrain.swift`: Contains the `CalBrain` class, which provides the calculation logic for the calculator. It includes a `calculate` method that takes an operation as a string and returns the result of performing that operation on two numbers.
-![](images/Screenshot 2023-11-08 at 9.01.32 PM.imageset.png)
+<img width="244" alt="Calculator_image" src="https://github.com/faalim/Calculator_Swift/assets/109769086/c9c25589-d02f-441d-b387-407f979d95fa">
+
+
+
 
 
 
